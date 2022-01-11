@@ -25,20 +25,13 @@
 ## 원격 저장소의 커밋을 로컬 저장소에 내려받기
 
 - Clone : 원격 저장소의 버전 전체를 내 로컬로 받는 것을 의미한다. 
-
 - git clone https://jamangstangs/GitTest.git .
-
   - 마지막에 점 찍어줘야 폴더를 안에 생성 안한다. 
-
 - @@@@@현재 시점을 기준으로 Commit을 새로 만들어보겠다. 
-
   - 이 시점은 GitTest2에서 진행한 파일이다.
-
   - 잠깐, remote 업데이트 해보자. 
 
-  - 
+## Soruce Tree 사용하기
 
-    
-
-​    
-
+1. GitCommnad 파일 수정하기
+2. 새로운 파일 하나 더 만들어주기. (GitList.md)
