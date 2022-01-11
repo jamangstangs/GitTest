@@ -27,4 +27,3 @@
 - Clone : 원격 저장소의 버전 전체를 내 로컬로 받는 것을 의미한다. 
 - git clone https://jamangstangs/GitTest.git .
   - 마지막에 점 찍어줘야 폴더를 안에 생성 안한다. 
-- 
