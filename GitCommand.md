@@ -16,5 +16,29 @@
 - 플러스 눌러서 내 깃허브 원격 저장소에 새로운 Repository를 추가하자. 
   - 해당 Repository의 주소를 받아서 내 로컬 저장소에서 만든 커밋들을 remote Repo에 넣어보자. 
 - git remote add origin https://github.com/jamangstangs/GitTest.git
-  1. 
+  1. Origin : remote 계정을 의미한다. 
+- git push origin master
+  - 안됨. 개인 토큰 생성 방식으로 다시 설정하자.
+  - 계정 : 그대로 입력
+  - 비밀번호 : 토큰 값을 입력하자. 
+
+## 원격 저장소의 커밋을 로컬 저장소에 내려받기
+
+- Clone : 원격 저장소의 버전 전체를 내 로컬로 받는 것을 의미한다. 
+
+- git clone https://jamangstangs/GitTest.git .
+
+  - 마지막에 점 찍어줘야 폴더를 안에 생성 안한다. 
+
+- @@@@@현재 시점을 기준으로 Commit을 새로 만들어보겠다. 
+
+  - 이 시점은 GitTest2에서 진행한 파일이다.
+
+  - 잠깐, remote 업데이트 해보자. 
+
+  - 
+
+    
+
+​    
 
