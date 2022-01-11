@@ -135,6 +135,16 @@
   2. 병합에 문제가 없으면, master branch에 반영한다. 
 - 자. 이제 , feature/otherBranch 커밋하고 체크아웃해서 master를 feature/otherBranch를 기준으로 병합을 하러 가보자. 
 
+## Merge 실습 정리
+
+1. feature/branch를 master에 병합 -> 문제가 없다. 
+2. feature/otherBranch에서 master를 땡겨와서 병합 -> 이전에 feature/branch에서 master로 병합했을때 충돌이 일어나는 부분이 발생했다. 
+3. 직접 코드를 수정해서, 다시 commit을 올린다. 
+4. 로컬에서 병합 과정 중 일어난 충돌을 해결함.
+5. origin master에 푸쉬 하면서 원격 저장소를 최신버전으로 유지한다. 
+
+
+
 
 
 
