@@ -128,6 +128,12 @@
 ## Merge 실습하기.
 
 - 실제로 Merge를 하고 다시 작성하러 오겠다. 
+- feature/branch를 병합을 마치고 온 상태이다. (빨리감기 병합)
+- 이제, feature/otherBranch를 병합해야하는데, 충돌이 에정되어있다. 
+- 합치는 방법
+  1. master branch를 내가 작업중인 branch에 땡겨와서 병합해보고, 문제가 없는지 확인한다. 
+  2. 병합에 문제가 없으면, master branch에 반영한다. 
+- 자. 이제 , feature/otherBranch 커밋하고 체크아웃해서 master를 feature/otherBranch를 기준으로 병합을 하러 가보자. 
 
 
 
