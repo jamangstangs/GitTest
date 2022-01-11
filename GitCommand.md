@@ -152,13 +152,19 @@
 
   이때, 예의 바르게 허락을 받는 것이 풀 리퀘스트이다. 
 
-  
+- Pull Request 과정 정리
 
+  1. feature/login branch 생성하고, 해당 branch에서 작업을 한다. 
+  2. commit하고 origin/feature/login으로 푸시한다. 
+  3. github에 들어가서 compare & pull request 버튼을 선택한다. 
+  4. 여기서, origin/master에게 권한이 있는 사람에게 pull request를 진행한다. 
+  5. 이것을 진행하면, pull request를 허락한다. 
+  6. 이후, local의 master에서 fetch해줘서 그래프를 업데이트 해준다. -> origin/master에 feature/login이 들어간 것을 볼 수 있다. 
+  7. 이제, local의 master를 pull해줘서 origin/maseter 에서 끌어온다. 
 
+- **pull : 원격 저장소에서 코드를 끌어온다.** 
 
-
-
-
+- **fetch : 원격 저장소의 변화를 그래프로만 그려준다.** 
 
 
 
