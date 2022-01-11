@@ -100,4 +100,54 @@
 
 - gitList.md를 수정해보자. 
 
-  
+
+
+
+## 브랜치와 브랜치를 합치기 : Merge
+
+- feature/branch
+  - GitCommand 작성
+  - GitList : 여기서 3번 항목 충돌 예정
+  - new.md 생성
+- feature/otherBranch
+  - Gitcommnad 유지
+  - GitList : 여기서 3번 항목 충돌 예정
+  - otherNew.md 생성
+- 이제 GitList에서 충돌이 일어날 예정이다. 
+  - feature/branch
+  - feature/otherBranch
+- 우선, master branch를 feature/branch로 빨리감기 할 것이다. 
+- 이제, master branch에 feature/branch의 내용이 반영되었으니, feature/branch는 지워도 된다. 
+- 이제, feature/otherBranch에서 수정 사항을 지금의 master branch에 합치고자 한다. 
+  - 문제점
+    - master가 featrure/branch를 기준으로 변화됨. 하지만 분기점으로부터 생성된 변화들이 다르다. (위에 참고하기.)
+    - 이렇게 되면, GitList에서 충돌이 일어날 예정이다. 어떻게 처리할지 알아보자. 
+- master branch를 기준으로 merge해보자. 
+  - ??? branch 기준으로 merge : master branch에 변경사항을 반영한다는 뜻이다. 
+
+## Merge 실습하기.
+
+- 실제로 Merge를 하고 다시 작성하러 오겠다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
