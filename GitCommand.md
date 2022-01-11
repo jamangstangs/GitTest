@@ -19,4 +19,12 @@
   1. Origin : remote 계정을 의미한다. 
 - git push origin master
   - 안됨. 개인 토큰 생성 방식으로 다시 설정하자.
-  - 
+  - 계정 : 그대로 입력
+  - 비밀번호 : 토큰 값을 입력하자. 
+
+## 원격 저장소의 커밋을 로컬 저장소에 내려받기
+
+- Clone : 원격 저장소의 버전 전체를 내 로컬로 받는 것을 의미한다. 
+- git clone https://jamangstangs/GitTest.git .
+  - 마지막에 점 찍어줘야 폴더를 안에 생성 안한다. 
+- 
