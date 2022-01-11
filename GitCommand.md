@@ -35,3 +35,11 @@
 
 1. GitCommnad 파일 수정하기
 2. 새로운 파일 하나 더 만들어주기. (GitList.md)
+
+- origin : 우리가 연결한 GitHub의 원격 저장소의 닉네임이다. git remote add (myorigin) https://github.com/jamangstangs/somthing으로 원격 저장소를 애드하면 된다. 
+- master : 커밋을 오릴는 줄기의 이름이다. 
+  - master : 로컬 저장소의 줄기 이름이다. 
+  - origin/master : 원격 저장소의 줄기 이름이다. 
+- push를 하면, 
+  - master origin/master 이렇게 동기화 된다. 
+  - 
