@@ -94,7 +94,10 @@
 
 - **HEAD : 이를 통해서 커밋을 넘나는다. **
 
-- 
+## 실전
+
+- feature/branchBasic 브랜치에서 작업을 할 것이다. 
+- branchBasic.md라는 파일을 GitTest에 만들어보자. 
 
 
 
