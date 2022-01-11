@@ -1,4 +1,5 @@
-# Start
+## Start
+
 - git init
 - git add ()
 - git commit -m "   "
@@ -10,3 +11,5 @@
     - 원하는 커밋으로 돌아간다. 
 - git checkout - 
     - 최신 커밋으로 다시 돌아간다. 
+## 원격 저장소 추가하기
+
