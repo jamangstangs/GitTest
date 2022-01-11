@@ -2,4 +2,5 @@
 
 1. 안녕
 2. 하세요
-2. feature/branch에서 수정함.
+3. feature/branch에서 수정함
+4. feature/otherBranch에서 수정함.
